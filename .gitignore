@@ -1,3 +1,4 @@
 .idea
 section-1/node_modules
 section-1/dist
+section-1/.env
